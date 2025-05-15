@@ -1,0 +1,2 @@
+# tenergy32gateway_lorajson_template
+tenergy32gateway_lorajson_template
